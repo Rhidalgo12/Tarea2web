@@ -1,6 +1,21 @@
-# ApiFront
+# Tarea 2 Introducción al Desarrollo Web/Móvil
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
+### Este proyecto corresponde a la Tarea 2 de la asignatura Introducción al Desarrollo Web Móvil.
+
+# Clonar el repositorio
+1. Clona el repositorio con el siguiente comando.
+   ```bash
+   git clone https://github.com/Rhidalgo12/Tarea2web.git
+# Ingresar a Visual Studio Code
+2. Coloca el siguiente comando para entrar a Visual Studio Code
+   ```bash
+   code .
+# Restaurar el Proyecto
+3. Despues de clonar el repositorio, restaura las dependencias
+   ```bash
+   cd Tarea2web
+   npm install
+ 
 
 ## Development server
 
